@@ -885,3 +885,19 @@
   location_end: 31
   added: "Monday, May 15, 2017 9:54:31 PM"
   clipping: "Deceleration typically ensues as innovators exhaust the easy ideas—the low-hanging fruit. But acceleration also ensues as the economy, by getting larger, enables its members to explore an ever-increasing number of innovations."
+-
+  title: "3D User Interfaces: Theory and Practice (Bowman, Doug A.;Kruijff, Ernst;LaViola, Joseph J., Jr.;Poupyrev, Ivan)"
+  type: highlight
+  page: 121
+  location_start: 758
+  location_end: 761
+  added: "Wednesday, May 17, 2017 6:21:40 AM"
+  clipping: "Purely virtual 3D interaction can be very powerful and flexible, but it can also be frustrating and imprecise. Including physical objects (“props”) in a 3D UI helps ground the user and constrains the interaction. For example, placing a 2D menu on a physical 2D surface helps the user find the menu and make a precise selection. Including physics (forces, collisions, etc.) or constraints (snapping, grouping, etc.) in a 3D world can also make interaction easier."
+-
+  title: "3D User Interfaces: Theory and Practice (Bowman, Doug A.;Kruijff, Ernst;LaViola, Joseph J., Jr.;Poupyrev, Ivan)"
+  type: highlight
+  page: 121
+  location_start: 840
+  location_end: 843
+  added: "Wednesday, May 17, 2017 7:35:13 AM"
+  clipping: "3D UIs often require complex visuals. For example, the principle of feedback indicates that the visual display should show the user information about his actions both during and after the user’s input. This means that during 3D object manipulation, we should provide the user with sufficient depth and position cues to understand where the object is in relation to the target location. These cues might include subtle lighting effects, realistic shadows, or various levels of transparency,"
