@@ -1,1 +1,903 @@
 ---
+-
+  title: "Bias-Optimal Incremental Problem Solving"
+  type: bookmark
+  page: 2
+  added: "Monday, February 4, 2013 3:34:27 PM"
+-
+  title: "Mathematics for Theoretical Physics"
+  type: bookmark
+  page: 21
+  added: "Monday, February 4, 2013 10:11:41 PM"
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: bookmark
+  page: 69
+  location_start: 1468
+  added: "Tuesday, February 5, 2013 9:07:32 AM"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: bookmark
+  page: 46
+  location_start: 916
+  added: "Saturday, February 16, 2013 7:30:23 PM"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: highlight
+  page: 53
+  location_start: 1015
+  location_end: 1017
+  added: "Saturday, February 16, 2013 10:16:27 PM"
+  clipping: "Experiments show that if we know what music other people are listening to, we are quite ready to subsume (if not totally abandon) our own aesthetic preferences and follow the herd—a phenomenon that explains why it’s so hard to predict hits. So composers, consumers, and groups of consumers all shape the world of music."
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: highlight
+  page: 58
+  location_start: 1077
+  location_end: 1078
+  added: "Saturday, February 16, 2013 10:29:47 PM"
+  clipping: "A system that makes no errors is not intelligent."
+-
+  title: "Habitable Zones: A Moving Target"
+  type: highlight
+  page: 58
+  location_start: 36
+  location_end: 37
+  added: "Tuesday, February 19, 2013 12:42:28 AM"
+  clipping: "Gliese 581d, thought to skirt the outer limits of its star’s habitable zone, may now move toward the habitable zone’s center, increasing the possibility of life emerging there."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 111
+  location_start: 2126
+  location_end: 2128
+  added: "Saturday, March 2, 2013 9:37:56 AM"
+  clipping: "Pierre Ramond was denied tenure at Yale in 1976, a few years after having solved several of string theory's central problems. It turns out that inventing a way to put fermions into string theory, discovering supersymmetry, and removing the tachyon—all in one blow—was not enough of an achievement to convince his colleagues that he deserved a professorship at an Ivy League institution."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 154
+  location_start: 2853
+  location_end: 2855
+  added: "Saturday, March 2, 2013 3:00:53 PM"
+  clipping: "Edward Witten is not someone given to pessimism, yet he flatly declared in 2001 that \"I don't know any clear-cut way to get de Sitter space [a universe with a positive cosmological constant] from string theory or M-theory.\""
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: bookmark
+  page: 236
+  location_start: 4214
+  added: "Sunday, March 24, 2013 9:09:02 AM"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 2276
+  location_end: 2277
+  added: "Friday, March 29, 2013 7:16:34 PM"
+  clipping: "Unfortunately, elliptic-curve cryptosystems are easily breakable by quantum computers,"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 2898
+  location_end: 2899
+  added: "Tuesday, April 2, 2013 8:31:26 AM"
+  clipping: "The reason quantum computing seems more powerful than classical computing is precisely that it seems hard to estimate that tiny residue using random sampling."
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 3018
+  location_end: 3019
+  added: "Wednesday, April 3, 2013 8:42:07 AM"
+  clipping: "reason we get a quadratic speedup is that quantum mechanics is based on the 2-norm rather than the 1-norm."
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 3134
+  location_end: 3136
+  added: "Thursday, April 4, 2013 9:17:13 AM"
+  clipping: "Perhaps Turing himself said it best:4 “If we want a machine to be intelligent, it can't also be infallible."
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 3134
+  location_end: 3136
+  added: "Thursday, April 4, 2013 9:17:46 AM"
+  clipping: "Perhaps Turing himself said it best:4 “If we want a machine to be intelligent, it can't also be infallible. There are theorems that say almost exactly that.”"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 3873
+  location_end: 3875
+  added: "Thursday, April 4, 2013 6:44:09 PM"
+  clipping: "if only we could measure the whole trajectory of a hidden variable, we could use a quantum computer to solve every SZK problem – including Graph Isomorphism and many other problems not yet known to have efficient quantum algorithms!"
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 243
+  location_start: 4331
+  location_end: 4334
+  added: "Friday, April 5, 2013 10:07:27 AM"
+  clipping: "By simply assuming that a classical world emerges from causal set theory, the Syracuse University physicist Rafael D. Sorkin and collaborators predicted that the cosmological constant would be about as small as has since been observed. As far as I'm aware, this is so far the only clean solution to the cosmological constant problem."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 249
+  location_start: 4419
+  location_end: 4420
+  added: "Friday, April 5, 2013 10:19:28 AM"
+  clipping: "Basically, string theory is the development of this visionary idea in a context of a fixed background of space and time. Loop quantum gravity is the same idea but developed in a completely background-independent theory."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: bookmark
+  page: 248
+  location_start: 4409
+  added: "Friday, April 5, 2013 10:23:58 AM"
+-
+  title: "The Moral Landscape (Harris, Sam)"
+  type: bookmark
+  page: 122
+  location_start: 2097
+  added: "Thursday, April 25, 2013 10:06:32 PM"
+-
+  title: "The Reasoned Schemer (Daniel P. Friedman;William E. Byrd;Oleg Kiselyov)"
+  type: bookmark
+  page: 8
+  location_start: 72
+  added: "Sunday, April 28, 2013 9:29:25 PM"
+-
+  title: "Why <cite>Structure and Interpretation of Computer Programs</cite> matters (Brian HarveyUniversity of California)"
+  type: highlight
+  page: 8
+  location_start: 7
+  location_end: 8
+  added: "Monday, May 6, 2013 10:07:17 AM"
+  clipping: "Before SICP, the first CS course was almost always entirely filled with learning the details of some programming language."
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: highlight
+  page: 89
+  location_start: 1482
+  location_end: 1482
+  added: "Tuesday, May 7, 2013 1:23:13 PM"
+  clipping: "It may surprise you that there is an amplitude for a photon to go at speeds faster or slower than the conventional speed, c."
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: bookmark
+  page: 89
+  location_start: 4735
+  added: "Wednesday, May 8, 2013 9:48:43 AM"
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: bookmark
+  page: 89
+  location_start: 3916
+  added: "Wednesday, May 8, 2013 9:58:52 AM"
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: highlight
+  page: 89
+  location_start: 4824
+  location_end: 4825
+  added: "Thursday, May 9, 2013 9:20:23 AM"
+  clipping: "Exercise 3.5.  Monte Carlo integration"
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: highlight
+  page: 89
+  location_start: 4853
+  location_end: 4854
+  added: "Thursday, May 9, 2013 9:23:06 AM"
+  clipping: "Programming without any use of assignments, as we did throughout the first two chapters of this book, is accordingly known as functional programming."
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: highlight
+  page: 89
+  location_start: 4893
+  location_end: 4894
+  added: "Thursday, May 9, 2013 9:33:28 AM"
+  clipping: "A language that supports the concept that ``equals can be substituted for equals'' in an expresssion without changing the value of the expression is said to be referentially transparent."
+-
+  title: "Structure and Interpretation of Computer Programs (Abelson and Sussman)"
+  type: bookmark
+  page: 89
+  location_start: 4791
+  added: "Thursday, May 9, 2013 9:39:19 AM"
+-
+  title: "Surfaces and Essences: Analogy as the Fuel and Fire of Thinking (Hofstadter, Douglas;Sander, Emmanuel)"
+  type: highlight
+  page: 14
+  location_start: 512
+  location_end: 514
+  added: "Tuesday, May 14, 2013 7:34:58 PM"
+  clipping: "For us, a category is a mental structure that is created over time and that evolves, sometimes slowly and sometimes quickly, and that contains information in an organized form, allowing access to it under suitable conditions. The act of categorization is the tentative and"
+-
+  title: "Surfaces and Essences: Analogy as the Fuel and Fire of Thinking (Hofstadter, Douglas;Sander, Emmanuel)"
+  type: highlight
+  page: 20
+  location_start: 672
+  location_end: 673
+  added: "Wednesday, May 15, 2013 9:31:13 AM"
+  clipping: "No thought can be formed that isn’t informed by the past; or, more precisely, we think only thanks to analogies that link our present to our past."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 307
+  location_start: 5398
+  location_end: 5399
+  added: "Wednesday, May 15, 2013 8:26:20 PM"
+  clipping: "Science is the organized skepticism in the reliability of expert opinion.8"
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 309
+  location_start: 5420
+  location_end: 5421
+  added: "Wednesday, May 15, 2013 8:28:30 PM"
+  clipping: "History demonstrates that the kind of person who becomes a seer is sometimes mediocre when compared with the mathematically clever scientists who excel at problem solving."
+-
+  title: "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (Smolin, Lee)"
+  type: highlight
+  page: 317
+  location_start: 5568
+  location_end: 5570
+  added: "Thursday, May 16, 2013 8:57:38 AM"
+  clipping: "relational quantum theories, because they are based on the idea that quantum mechanics is a description of relationships between subsystems of the universe."
+-
+  title: "The Fabric of Reality: The Science of Parallel Universes--and Its Implications (Deutsch, David)"
+  type: bookmark
+  page: 25
+  location_start: 462
+  added: "Friday, May 17, 2013 8:03:48 PM"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 210
+  location_start: 4136
+  location_end: 4137
+  added: "Tuesday, May 21, 2013 9:06:47 AM"
+  clipping: "Each bit of information you extract cuts in half the dimensionality of the Hilbert space."
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 236
+  location_start: 4591
+  location_end: 4596
+  added: "Thursday, May 23, 2013 10:10:51 AM"
+  clipping: "On the other hand, supposing you had some hypothetical theory in (say) high-energy physics such that, no matter what the next particle accelerator found, there'd still be some way of – I don't know – curling up extra dimensions or something to reproduce those observations – well, in that case you'd have a concept class whose VC dimension was at least as great as the number of observations you were trying to explain. In such a situation, computational learning theory gives you no reason to expect that whatever hypothesis you output will be able to predict the next observation."
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: note
+  page: 236
+  location_start: 4595
+  added: "Thursday, May 23, 2013 10:19:37 AM"
+  clipping: "This is basically the thesis of \"The trouble with physics\" by Lee Smolin"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: bookmark
+  page: 102
+  location_start: 1647
+  added: "Friday, May 24, 2013 9:09:16 PM"
+-
+  title: "Edge.org (edge.org)"
+  type: bookmark
+  page: 102
+  location_start: 17
+  added: "Friday, May 24, 2013 9:26:56 PM"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: note
+  page: 113
+  location_start: 1820
+  added: "Friday, May 24, 2013 9:38:03 PM"
+  clipping: "Perfect explanation of conductivity by Feynman"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: highlight
+  page: 113
+  location_start: 1814
+  location_end: 1820
+  added: "Friday, May 24, 2013 9:38:03 PM"
+  clipping: "There are only two states of polarization available to electrons, so in an atom with three protons in the nucleus exchanging photons with three electrons—a condition called a lithium atom—the third electron is farther away from the nucleus than the other two (which have used up the nearest available space), and exchanges fewer photons. This causes the electron to easily break away from its own nucleus under the influence of photons from other atoms. A large number of such atoms close together easily lose their individual third electrons to form a sea of electrons swimming around from atom to atom. This sea of electrons reacts to any small electrical force (photons), generating a current of electrons—I am describing lithium metal conducting electricity. Hydrogen and helium atoms do not lose their electrons to other atoms. They are “insulators.”"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: highlight
+  page: 114
+  location_start: 1825
+  location_end: 1826
+  added: "Friday, May 24, 2013 9:45:46 PM"
+  clipping: "(If the electrons in the world were unpolarized, all the atoms would have very similar properties: the electrons would all cluster together, close to the nucleus of their own atom, and would not be easily attracted to other atoms to make chemical reactions.)"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: bookmark
+  page: 120
+  location_start: 1907
+  added: "Friday, May 24, 2013 9:59:08 PM"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: bookmark
+  page: 93
+  location_start: 1529
+  added: "Friday, May 24, 2013 10:02:06 PM"
+-
+  title: "QED (Princeton Science Library) (Feynman, Richard P.)"
+  type: bookmark
+  page: 94
+  location_start: 1538
+  added: "Friday, May 24, 2013 10:02:14 PM"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: bookmark
+  page: 125
+  location_start: 1934
+  added: "Monday, May 27, 2013 9:49:33 PM"
+-
+  title: "Why Does the World Exist?: An Existential Detective Story (Holt, Jim)"
+  type: highlight
+  page: 30
+  location_start: 520
+  location_end: 524
+  added: "Friday, June 7, 2013 9:43:28 AM"
+  clipping: "Take another question, posed twenty-five hundred years ago by Thales and his fellow pre-Socratics: What are things made of? Asking a question of such all-encompassing generality might sound naive, even childish. But, as the Oxford philosopher Timothy Williamson observed, the pre-Socratic philosophers “were asking one of the best questions ever to have been asked, a question that has painfully led to much of modern science.” To have dismissed it from the outset as unanswerable would have been “a feeble and unnecessary surrender to despair, philistinism, cowardice or indolence.”"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 266
+  location_start: 5223
+  location_end: 5226
+  added: "Friday, June 7, 2013 9:52:57 AM"
+  clipping: "There's a central proposition that many people interested in rationality believe they should base their lives around – even though they generally don't in practice. This is Bayes's Theorem. If you talk to philosophers, this is often the one mathematical fact that they know. (Kidding!)"
+-
+  title: "Surfaces and Essences: Analogy as the Fuel and Fire of Thinking (Hofstadter, Douglas;Sander, Emmanuel)"
+  type: highlight
+  page: 31
+  location_start: 957
+  location_end: 957
+  added: "Wednesday, June 12, 2013 9:33:11 AM"
+  clipping: "We have a very hard time “seeing” our cognitive activity because it is the medium in which we swim."
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: highlight
+  page: 31
+  location_start: 826
+  location_end: 828
+  added: "Friday, August 2, 2013 2:32:04 PM"
+  clipping: "we can calculate the maximum achievable speedup for a given number of cores using Amdahl’s law. Amdahl’s law gives the maximum speedup as the ratio: 1 / ((1 - P) + P/N)"
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: highlight
+  page: 31
+  location_start: 834
+  location_end: 836
+  added: "Friday, August 2, 2013 2:32:45 PM"
+  clipping: "Amdahl’s law tells us that not only does parallel speedup become harder to achieve the more processors we add, but in practice most programs have a theoretical maximum amount of parallelism."
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: highlight
+  page: 31
+  location_start: 2137
+  location_end: 2138
+  added: "Sunday, August 4, 2013 10:04:20 AM"
+  clipping: "folds can be parallelized only when the operation being folded is associative, and then the linear fold can be turned into a tree)."
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: note
+  page: 31
+  location_start: 2647
+  added: "Sunday, August 4, 2013 10:42:35 AM"
+  clipping: "TIL you could pattern match this way"
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: highlight
+  page: 31
+  location_start: 2644
+  location_end: 2648
+  added: "Sunday, August 4, 2013 10:42:35 AM"
+  clipping: "generate partial | Just soln <- finished partial = [soln]"
+-
+  title: "Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming (Marlow, Simon)"
+  type: highlight
+  page: 31
+  location_start: 3072
+  location_end: 3073
+  added: "Sunday, August 4, 2013 10:59:39 AM"
+  clipping: "The Z and :. symbols are both type constructors and value constructors,"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: highlight
+  page: 165
+  location_start: 2444
+  location_end: 2447
+  added: "Sunday, August 4, 2013 2:48:22 PM"
+  clipping: "Quite often when I’m preparing shrimp, or tearing open a lobster, or contemplating what it would be like to be forced to dissect an acorn worm, or patting my cat on the belly, or giving someone a hug, I think a bit about the fact that all these bodies are built on the same plan, except that the cat’s and the huggee’s bodies are the legacy of some worm swimming the wrong way up in a Precambrian ocean more than 550 million years ago. It has always struck me as rather gorgeous."
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: highlight
+  page: 165
+  location_start: 28
+  location_end: 30
+  added: "Monday, August 5, 2013 8:49:43 AM"
+  clipping: "In addition to the usual uncertainty that comes with quantum mechanics, there is the additional uncertainty of not knowing what the wavefunction is: information has been lost. As Hawking put it, “Not only does God play dice, but he sometimes confuses us by throwing them where they can’t be seen.”"
+-
+  title: "Are black holes surrounded by firewalls? (Luboš Motl)"
+  type: bookmark
+  page: 165
+  location_start: 26
+  added: "Monday, August 5, 2013 8:55:39 AM"
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: bookmark
+  page: 165
+  location_start: 88
+  added: "Monday, August 5, 2013 9:13:57 AM"
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: bookmark
+  page: 165
+  location_start: 93
+  added: "Monday, August 5, 2013 9:13:59 AM"
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: bookmark
+  page: 165
+  location_start: 93
+  added: "Monday, August 5, 2013 9:14:13 AM"
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: highlight
+  page: 165
+  location_start: 111
+  location_end: 113
+  added: "Monday, August 5, 2013 9:48:18 AM"
+  clipping: "If we want to avoid drama, we have to give up either purity or EFT. I am reluctant to give up purity: AdS/CFT is a guide that I trust, but even the earlier arguments for purity were strong. Giving up EFT is not so implausible."
+-
+  title: "Guest Post: Joe Polchinski on Black Holes, Complementarity, and Firewalls (discovermagazine.com)"
+  type: highlight
+  page: 165
+  location_start: 125
+  location_end: 126
+  added: "Monday, August 5, 2013 9:58:36 AM"
+  clipping: "But the main thing is that I am now as puzzled about the information paradox as I ever was in the past, and it seems like a good kind of puzzlement that may lead to new insights into quantum gravity."
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: highlight
+  page: 189
+  location_start: 2734
+  location_end: 2735
+  added: "Wednesday, August 7, 2013 1:08:51 PM"
+  clipping: "Natural selection is the only known counterweight to the tendency of physical systems to lose rather than grow functional organization—"
+-
+  title: "This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works (Brockman, John)"
+  type: highlight
+  page: 190
+  location_start: 2756
+  location_end: 2757
+  added: "Wednesday, August 7, 2013 1:11:37 PM"
+  clipping: "Entropy makes things fall, but life ingeniously rigs the game so that when they do, they often fall into place."
+-
+  title: "pipes-parse-1.0.0: Pushback, delimited parsers, resumable parsing, and lenses (Gabriel Gonzalez)"
+  type: bookmark
+  page: 190
+  location_start: 38
+  added: "Thursday, August 8, 2013 1:28:01 PM"
+-
+  title: "pipes-parse-1.0.0: Pushback, delimited parsers, resumable parsing, and lenses (Gabriel Gonzalez)"
+  type: bookmark
+  page: 190
+  location_start: 32
+  added: "Thursday, August 8, 2013 1:28:22 PM"
+-
+  title: "pipes-parse-1.0.0: Pushback, delimited parsers, resumable parsing, and lenses (Gabriel Gonzalez)"
+  type: bookmark
+  page: 190
+  location_start: 32
+  added: "Thursday, August 8, 2013 1:28:29 PM"
+-
+  title: "pipes-parse-1.0.0: Pushback, delimited parsers, resumable parsing, and lenses (Gabriel Gonzalez)"
+  type: bookmark
+  page: 190
+  location_start: 32
+  added: "Thursday, August 8, 2013 1:28:32 PM"
+-
+  title: "Quantum Network Theory (Part 1) (wordpress.com)"
+  type: highlight
+  page: 190
+  location_start: 81
+  location_end: 83
+  added: "Monday, August 12, 2013 7:58:02 AM"
+  clipping: "This is nice, since (as seen in parts 16 and 20) a self-adjoint matrix generates a continuous-time quantum walk."
+-
+  title: "Kan Extensions (comonad.com)"
+  type: highlight
+  page: 190
+  location_start: 54
+  location_end: 56
+  added: "Monday, August 12, 2013 3:55:41 PM"
+  clipping: "The improvement results from the fact that the continuation passing style transformation it applies keeps you from traversing back and forth over the entire tree when performing substitution in the free monad."
+-
+  title: "Understanding Yoneda (bartoszmilewski.com)"
+  type: highlight
+  page: 190
+  location_start: 46
+  location_end: 47
+  added: "Monday, August 19, 2013 9:07:12 AM"
+  clipping: "So vector spaces and matrices are to abstract groups as sets and functions are to abstract categories."
+-
+  title: "Homotopy Type Theory"
+  type: highlight
+  page: 14
+  location_start: 46
+  location_end: 47
+  added: "Thursday, August 22, 2013 10:44:46 AM"
+  clipping: "In set-theoretic foundations, the statement “every fully faithful and essentially surjective functor is an equivalence of categories” is equivalent to the axiom of choice. But with the univalence axiom, it is just true; see Chapter 9."
+-
+  title: "Homotopy Type Theory"
+  type: highlight
+  page: 32
+  location_start: 46
+  location_end: 47
+  added: "Friday, August 23, 2013 8:34:37 AM"
+  clipping: "To model a collection of types varying over a given type A, we use functions B : A ! U whose codomain is a universe. These functions are called families of types (or sometimes dependent types"
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: note
+  page: 318
+  location_start: 6133
+  added: "Thursday, December 12, 2013 8:52:42 PM"
+  clipping: "Pretty much rules out going back in time via CTCs in our universe :("
+-
+  title: "Quantum Computing since Democritus (Aaronson, Scott)"
+  type: highlight
+  page: 318
+  location_start: 6132
+  location_end: 6133
+  added: "Thursday, December 12, 2013 8:52:42 PM"
+  clipping: "if CTCs existed, then quantum computers would be no more powerful than classical ones."
+-
+  title: "A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography | CloudFlare Blog (cloudflare.com)"
+  type: highlight
+  page: 318
+  location_start: 139
+  location_end: 141
+  added: "Saturday, December 14, 2013 9:15:08 PM"
+  clipping: "breaking a 228-bit RSA key requires less energy to than it takes to boil a teaspoon of water. Comparatively, breaking a 228-bit elliptic curve key requires enough energy to boil all the water on earth. For this level of security with RSA, you'd need a key with 2,380-bits."
+-
+  title: "Equational reasoning (haskellforall.com)"
+  type: highlight
+  page: 318
+  location_start: 183
+  location_end: 183
+  added: "Saturday, December 28, 2013 7:35:49 AM"
+  clipping: "I find that the most reusable proofs are category laws or functor laws of some sort."
+-
+  title: "InternalReprogrammability (Martin Fowler)"
+  type: bookmark
+  page: 318
+  location_start: 14
+  added: "Saturday, December 28, 2013 7:41:20 AM"
+-
+  title: "Edward Witten: what every quantum physicist should know about string theory (motls.blogspot.com)"
+  type: bookmark
+  page: 318
+  location_start: 20
+  added: "Monday, December 30, 2013 9:27:30 PM"
+-
+  title: "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life (Venter, J. Craig)"
+  type: highlight
+  page: 318
+  location_start: 911
+  location_end: 912
+  added: "Wednesday, January 8, 2014 5:11:59 PM"
+  clipping: "M. genitalium has only 482 protein-coding genes and forty-two RNA genes."
+-
+  title: "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life (Venter, J. Craig)"
+  type: note
+  page: 318
+  location_start: 912
+  added: "Wednesday, January 8, 2014 5:13:31 PM"
+  clipping: "The answer to the universe and everything!"
+-
+  title: "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life (Venter, J. Craig)"
+  type: highlight
+  page: 318
+  location_start: 911
+  location_end: 912
+  added: "Wednesday, January 8, 2014 5:13:32 PM"
+  clipping: "M. genitalium has only 482 protein-coding genes and forty-two RNA genes."
+-
+  title: "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life (Venter, J. Craig)"
+  type: highlight
+  page: 318
+  location_start: 959
+  location_end: 960
+  added: "Wednesday, January 8, 2014 5:19:16 PM"
+  clipping: "In 1984 Marshall had had the courage of his convictions to swallow a solution of the bacteria. He soon threw up and developed stomach inflammation. Eventually, his persistence paid off."
+-
+  title: "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life (Venter, J. Craig)"
+  type: highlight
+  page: 318
+  location_start: 1133
+  location_end: 1135
+  added: "Wednesday, January 8, 2014 2:38:18 PM"
+  clipping: "We started with water samples from the Sargasso Sea surrounding Bermuda, which at that time was considered by many to be an ocean “desert,” due to lack of available nutrients. In this “barren” sea we found in just one sample over 1.2 million previously unknown genes and at least 1,800 species."
+-
+  title: "The Drop (A Harry Bosch Novel) (Connelly, Michael)"
+  type: bookmark
+  page: 233
+  location_start: 3109
+  added: "Friday, January 31, 2014 5:47:09 PM"
+-
+  title: "ImperialViolet - Forward security for journalists (Adam Langley)"
+  type: bookmark
+  page: 233
+  location_start: 53
+  added: "Saturday, February 1, 2014 8:02:37 PM"
+-
+  title: "The Theoretical Minimum (Susskind, Leonard)"
+  type: highlight
+  page: 76
+  location_start: 1105
+  location_end: 1106
+  added: "Sunday, February 2, 2014 6:32:36 AM"
+  clipping: "Exercise 1: Compute all first and second partial derivatives—including mixed derivatives—of the following functions."
+-
+  title: "The Theoretical Minimum (Susskind, Leonard)"
+  type: note
+  page: 82
+  location_start: 1187
+  added: "Sunday, February 2, 2014 6:44:29 AM"
+  clipping: "Hessian pro tips"
+-
+  title: "The Theoretical Minimum (Susskind, Leonard)"
+  type: highlight
+  page: 82
+  location_start: 1184
+  location_end: 1187
+  added: "Sunday, February 2, 2014 6:44:29 AM"
+  clipping: "If the determinant and the trace of the Hessian is positive then the point is a local minimum. If the determinant is positive and the trace negative the point is a local maximum. If the determinant is negative, then irrespective of the trace, the point is a saddle point."
+-
+  title: "Ready Player One (Cline, Ernest)"
+  type: bookmark
+  page: 47
+  location_start: 848
+  added: "Sunday, March 30, 2014 9:56:44 AM"
+-
+  title: "The Witness (Roberts, Nora)"
+  type: bookmark
+  page: 121
+  location_start: 1741
+  added: "Thursday, April 17, 2014 11:36:09 AM"
+-
+  title: "Dark Witch: Book One of The Cousins O'Dwyer Trilogy (Roberts, Nora)"
+  type: bookmark
+  page: 121
+  location_start: 826
+  added: "Saturday, April 26, 2014 3:50:57 PM"
+-
+  title: "The Goldfinch: A Novel (Pulitzer Prize for Fiction) (Tartt, Donna)"
+  type: bookmark
+  page: 121
+  location_start: 2587
+  added: "Monday, May 26, 2014 12:00:12 AM"
+-
+  title: "The Goldfinch: A Novel (Pulitzer Prize for Fiction) (Tartt, Donna)"
+  type: bookmark
+  page: 121
+  location_start: 2587
+  added: "Monday, May 26, 2014 12:01:25 AM"
+-
+  title: "My Inventions (Tesla, Nikola)"
+  type: note
+  page: 121
+  location_start: 1037
+  added: "Wednesday, October 15, 2014 9:47:51 AM"
+  clipping: "Nikola Tesla predicts self driving cars in 1898"
+-
+  title: "My Inventions (Tesla, Nikola)"
+  type: highlight
+  page: 121
+  location_start: 1036
+  location_end: 1037
+  added: "Wednesday, October 15, 2014 9:47:51 AM"
+  clipping: "As early as 1898 I proposed to representatives of a large manufacturing concern the construction and public exhibition of an automobile carriage which, left to itself, would perform a great variety of operations involving something akin to judgment."
+-
+  title: "Quantum Computation and Quantum Information (Nielsen, Michael A.;Chuang, Isaac L.)"
+  type: highlight
+  page: 121
+  location_start: 1191
+  location_end: 1191
+  added: "Sunday, May 3, 2015 1:33:18 PM"
+  clipping: "Any multiple qubit logic gate may be composed from CNOT and single qubit gates."
+-
+  title: "Coders at Work: Reflections on the Craft of Programming (Peter Seibel)"
+  type: highlight
+  page: 121
+  location_start: 4402
+  location_end: 4403
+  added: "Tuesday, May 12, 2015 7:57:27 PM"
+  clipping: "I got to thinking that maybe for a really successful programming language, you need to design and plan for the social process as much as you design the technical features of the language and think about how those two things are going to interact."
+-
+  title: "Harry Potter and the Methods of Rationality (Eliezer Yudkowsky)"
+  type: bookmark
+  page: 121
+  location_start: 16190
+  added: "Saturday, August 1, 2015 12:27:27 PM"
+-
+  title: "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers (Ferriss, Timothy)"
+  type: bookmark
+  page: 121
+  location_start: 2669
+  added: "Friday, December 16, 2016 11:34:53 AM"
+-
+  title: "The Three-Body Problem (Liu, Cixin)"
+  type: bookmark
+  page: 121
+  location_start: 5843
+  added: "Friday, February 3, 2017 10:20:59 AM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 482
+  location_end: 484
+  added: "Sunday, February 5, 2017 3:57:24 AM"
+  clipping: "The entropy of communication theory is a measure of this uncertainty and the uncertainty, or entropy, is taken as the measure of the amount of information conveyed by a message from a source. The more we know about what message the source will produce, the less uncertainty, the less the entropy, and the less the information."
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 811
+  location_end: 813
+  added: "Sunday, February 5, 2017 9:34:07 PM"
+  clipping: "How can we represent or encode messages from the message source by means of electrical signals so as to attain the fastest possible transmission over the noisy channel? Indeed, how fast can we transmit a given type of message over a given channel without error? In a rough and general way, this is the problem that Shannon set himself and solved."
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 1031
+  location_end: 1032
+  added: "Monday, February 6, 2017 5:46:44 AM"
+  clipping: "When a source is stationary, and when every possible ensemble average (of letters, digrams, trigrams, etc.) is equal to the corresponding time average, the source is said to be ergodic."
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 1394
+  location_end: 1394
+  added: "Monday, February 6, 2017 12:03:44 PM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 1394
+  location_end: 1394
+  added: "Monday, February 6, 2017 12:05:07 PM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: note
+  page: 121
+  location_start: 1613
+  added: "Monday, February 6, 2017 12:47:38 PM"
+  clipping: "Constructing coding trees"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 1610
+  location_end: 1613
+  added: "Monday, February 6, 2017 12:47:38 PM"
+  clipping: "In constructing the code, we first find the two lowest probabilities, .02 (sells) and .03 (horse), and draw lines to the point marked .05, the probability of either horse or sells. We then disregard the individual probabilities connected by the lines and look for the two lowest probabilities, which are .04 (like) and .04 (house). We draw lines to the right to a point marked .08, which is the sum of .04 and"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: bookmark
+  page: 121
+  location_start: 1682
+  added: "Monday, February 6, 2017 12:59:33 PM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: bookmark
+  page: 121
+  location_start: 1692
+  added: "Monday, February 6, 2017 1:01:00 PM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: bookmark
+  page: 121
+  location_start: 1715
+  added: "Monday, February 6, 2017 1:26:53 PM"
+-
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) (Pierce, John R.)"
+  type: highlight
+  page: 121
+  location_start: 1724
+  location_end: 1726
+  added: "Monday, February 6, 2017 1:33:33 PM"
+  clipping: "it appears that the entropy of English text lies somewhere between 0.6 and 1.3 bits per letter. Let us assume a value of 1 bit per letter. Then it will take on the average 100 binary digits to encode a block of 100 letters. This means that there are 2100 probable English sequences of 100 letters."
+-
+  title: "Introduction to Analysis (Dover Books on Mathematics) (Rosenlicht, Maxwell)"
+  type: bookmark
+  page: 121
+  location_start: 225
+  added: "Wednesday, February 8, 2017 3:15:40 AM"
+-
+  title: "Quantum Theory by Starlight (newyorker.com)"
+  type: highlight
+  page: 121
+  location_start: 21
+  location_end: 22
+  added: "Tuesday, March 28, 2017 5:01:08 AM"
+  clipping: "His exploits with the Junger sisters, who were half his age, compelled his biographer to save a spot in the index for “Lolita complex.”)"
+-
+  title: "Math, Better Explained: Learn to Unlock Your Math Intuition (Azad, Kalid)"
+  type: highlight
+  page: 121
+  location_start: 842
+  location_end: 844
+  added: "Friday, March 31, 2017 9:53:29 AM"
+  clipping: "How about division? ln(5/3) means: How long does it take to grow 5 times and then take 1/3 of that? Well, growing 5 times is ln(5). Growing 1/3 is –ln(3) units of time. So ln(5/3) = ln(5) – ln(3)"
+-
+  title: "Math, Better Explained: Learn to Unlock Your Math Intuition (Azad, Kalid)"
+  type: highlight
+  page: 121
+  location_start: 847
+  location_end: 847
+  added: "Friday, March 31, 2017 9:54:59 AM"
+  clipping: "Don’t memorize the rules, understand them."
+-
+  title: "Math, Better Explained: Learn to Unlock Your Math Intuition (Azad, Kalid)"
+  type: highlight
+  page: 121
+  location_start: 1051
+  location_end: 1053
+  added: "Friday, March 31, 2017 10:07:18 AM"
+  clipping: "Mathematically, the expand-o-tron (exponent function) does this: original · growthduration = new or growthduration = new / original"
+-
+  title: "Misbehaving: The Making of Behavioral Economics (Thaler, Richard H.)"
+  type: bookmark
+  page: 121
+  location_start: 245
+  added: "Friday, May 12, 2017 8:14:01 PM"
+-
+  title: "Misbehaving: The Making of Behavioral Economics (Thaler, Richard H.)"
+  type: highlight
+  page: 121
+  location_start: 134
+  location_end: 136
+  added: "Friday, May 12, 2017 8:14:35 PM"
+  clipping: "I made the total number of points available 137 instead of 100. This exam turned out to be slightly harder than the first, with students getting only 70% of the answers right, but the average numerical score was a cheery 96 points. The students were delighted!"
+-
+  title: "Misbehaving: The Making of Behavioral Economics (Thaler, Richard H.)"
+  type: highlight
+  page: 121
+  location_start: 350
+  location_end: 351
+  added: "Friday, May 12, 2017 8:23:48 PM"
+  clipping: "Giving up the opportunity to sell something does not hurt as much as taking the money out of your wallet to pay for it. Opportunity costs are vague and abstract when compared to handing over actual cash."
+-
+  title: "Economics Of The Singularity (Robin Hanson)"
+  type: highlight
+  page: 121
+  location_start: 29
+  location_end: 31
+  added: "Monday, May 15, 2017 9:54:31 PM"
+  clipping: "Deceleration typically ensues as innovators exhaust the easy ideas—the low-hanging fruit. But acceleration also ensues as the economy, by getting larger, enables its members to explore an ever-increasing number of innovations."
+-
+  title: "3D User Interfaces: Theory and Practice (Bowman, Doug A.;Kruijff, Ernst;LaViola, Joseph J., Jr.;Poupyrev, Ivan)"
+  type: highlight
+  page: 121
+  location_start: 758
+  location_end: 761
+  added: "Wednesday, May 17, 2017 6:21:40 AM"
+  clipping: "Purely virtual 3D interaction can be very powerful and flexible, but it can also be frustrating and imprecise. Including physical objects (“props”) in a 3D UI helps ground the user and constrains the interaction. For example, placing a 2D menu on a physical 2D surface helps the user find the menu and make a precise selection. Including physics (forces, collisions, etc.) or constraints (snapping, grouping, etc.) in a 3D world can also make interaction easier."
+-
+  title: "3D User Interfaces: Theory and Practice (Bowman, Doug A.;Kruijff, Ernst;LaViola, Joseph J., Jr.;Poupyrev, Ivan)"
+  type: highlight
+  page: 121
+  location_start: 840
+  location_end: 843
+  added: "Wednesday, May 17, 2017 7:35:13 AM"
+  clipping: "3D UIs often require complex visuals. For example, the principle of feedback indicates that the visual display should show the user information about his actions both during and after the user’s input. This means that during 3D object manipulation, we should provide the user with sufficient depth and position cues to understand where the object is in relation to the target location. These cues might include subtle lighting effects, realistic shadows, or various levels of transparency,"
