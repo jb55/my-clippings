@@ -1002,3 +1002,408 @@
   location_end: 116
   added: "Wednesday, May 17, 2017 12:35:48 PM"
   clipping: "‘We imagine ourselves at the apex of intelligence, and cannot believe that the quaint clothes and cumbrous phrases of former times can have invested people and thoughts that are still worthy of our attention.’"
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: highlight
+  page: 121
+  location_start: 355
+  location_end: 356
+  added: "Thursday, May 18, 2017 3:55:56 AM"
+  clipping: "Claims about what constitutes flourishing for human beings no more float free of scientific facts about what human beings are like than ethological claims about what constitutes flourishing for elephants."
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: highlight
+  page: 121
+  location_start: 355
+  location_end: 358
+  added: "Thursday, May 18, 2017 3:56:52 AM"
+  clipping: "Claims about what constitutes flourishing for human beings no more float free of scientific facts about what human beings are like than ethological claims about what constitutes flourishing for elephants. In both cases, the truth of the claims depends in part on what kind of animal they are and what capacities, desires and interests the humans or elephants have."
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: highlight
+  page: 121
+  location_start: 360
+  location_end: 363
+  added: "Thursday, May 18, 2017 3:58:50 AM"
+  clipping: "to secure the advantages of co-operation. Like other social animals, our natural impulses are not solely directed towards our own pleasures and preservation, but include altruistic and cooperative ones. This basic fact about us should make more comprehensible the claim that the virtues are at least partially constitutive of human flourishing and also undercut the objection that virtue ethics is, in some sense, egoistic."
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: highlight
+  page: 121
+  location_start: 378
+  location_end: 381
+  added: "Thursday, May 18, 2017 4:01:51 AM"
+  clipping: "On the Stoical view that it is both necessary and sufficient, a eudaimon life is a life that has been successfully lived (where “success” of course is not to be understood in a materialistic way) and such people die knowing not only that they have made a success of their lives but that they have also brought their lives to a markedly successful completion. Either way, such heroic acts can hardly be regarded as egoistic."
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: bookmark
+  page: 121
+  location_start: 382
+  added: "Thursday, May 18, 2017 4:03:43 AM"
+-
+  title: "Virtue Ethics (Stanford Encyclopedia of Philosophy) (stanford.edu)"
+  type: highlight
+  page: 121
+  location_start: 391
+  location_end: 393
+  added: "Thursday, May 18, 2017 4:20:29 AM"
+  clipping: "it would be reckless in the extreme to ascribe a demanding virtue such as charity to people of whom they know no more than that they have exhibited conventional decency; this would indeed be “a fundamental attribution error.”"
+-
+  title: "Quantum Theory by Starlight (newyorker.com)"
+  type: highlight
+  page: 121
+  location_start: 20
+  location_end: 22
+  added: "Thursday, May 18, 2017 11:18:23 AM"
+  clipping: "Einstein’s relativity, for instance, introduced the so-called twin paradox, which illustrates how a rapid journey through space and time can make one woman age more slowly than her twin. (Schrödinger’s interest in twins was rather less academic. His exploits with the Junger sisters, who were half his age, compelled his biographer to save a spot in the index for “Lolita complex.”)"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 25
+  added: "Thursday, May 18, 2017 11:21:53 AM"
+  clipping: "Let it crash"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 24
+  location_end: 25
+  added: "Thursday, May 18, 2017 11:21:53 AM"
+  clipping: "I think this is what ‘Let it crash’ is about. If we can embrace failures, crashes and exceptions and do so in a very well-controlled manner, they stop being this scary event to be avoided and instead become a powerful building block to assemble large reliable systems."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 30
+  added: "Thursday, May 18, 2017 11:22:51 AM"
+  clipping: "Erlang process isolation"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 27
+  location_end: 30
+  added: "Thursday, May 18, 2017 11:22:51 AM"
+  clipping: "Erlang’s processes are fully isolated, and they share nothing. No process can go and reach into another one’s memory, or impact the work it’s doing by corrupting the data it operates on. This is good because it means that a process dying is essentially guaranteed to keep its issues to itself, and that provides very strong fault isolation into your system."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 52
+  added: "Thursday, May 18, 2017 11:26:39 AM"
+  clipping: "Writing to and reading from Erlang mail boxes"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 51
+  location_end: 52
+  added: "Thursday, May 18, 2017 11:26:39 AM"
+  clipping: "To read messages, each process has a single mailbox. Everyone can write to a process, mailbox, but only the owner can look into it."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 63
+  added: "Thursday, May 18, 2017 11:27:52 AM"
+  clipping: "Erlang monitors"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 62
+  location_end: 63
+  added: "Thursday, May 18, 2017 11:27:52 AM"
+  clipping: "Monitors are all about being an observer, a creeper. You decide to keep an eye on a process, and if it dies for whatever reason, you get a message in your mailbox telling you about it. You can then react to this and make decisions with your newly found information."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 66
+  added: "Thursday, May 18, 2017 11:28:21 AM"
+  clipping: "Erlang links"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 65
+  location_end: 66
+  added: "Thursday, May 18, 2017 11:28:21 AM"
+  clipping: "Links are bidirectional, and setting one up binds the destiny of the two processes between which they are established. Whenever a process dies, all the linked processes receive an exit signal. That exit signal will in turn kill the other processes."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 68
+  added: "Thursday, May 18, 2017 11:29:20 AM"
+  clipping: "Using Erlang links to tie processes together"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 67
+  location_end: 68
+  added: "Thursday, May 18, 2017 11:29:20 AM"
+  clipping: "Now this gets to be really interesting because I can use monitors to quickly detect failures, and I can use links as an architectural construct letting me tie multiple processes together so they fail as a unit."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 75
+  added: "Thursday, May 18, 2017 11:35:01 AM"
+  clipping: "Erlang link recovery"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 71
+  location_end: 75
+  added: "Thursday, May 18, 2017 11:35:01 AM"
+  clipping: "For this slide, I picked a picture of mountain climbers roped together. Now if mountain climbers only had links between them, they would be in a sorry state. Every time a climber from your team would slip, the rest of the team would instantly die. Not a great way to go about things. Erlang instead lets you specify that some processes are special and can be flagged with a trap_exit option. They can then take the exit signals sent over links and transform them into messages. This lets them recover faults"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 126
+  added: "Thursday, May 18, 2017 11:39:33 AM"
+  clipping: "Erlang supervisors"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 124
+  location_end: 126
+  added: "Thursday, May 18, 2017 11:39:33 AM"
+  clipping: "Supervision trees is how you impose structure to your Erlang programs. They start with a simple concept, a supervisor, whose only job is to start processes, look at them, and restart them when they fail."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 131
+  added: "Thursday, May 18, 2017 11:40:43 AM"
+  clipping: "Erlang supervisor tree structuring"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 130
+  location_end: 131
+  added: "Thursday, May 18, 2017 11:40:43 AM"
+  clipping: "That means that when you structure Erlang programs, everything you feel is fragile and should be allowed to fail has to move deeper into the hierarchy, and what is stable and critically needs to be reliable is higher up."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 162
+  added: "Thursday, May 18, 2017 11:43:48 AM"
+  clipping: "Erlang philosophy on system totality"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 161
+  location_end: 162
+  added: "Thursday, May 18, 2017 11:43:48 AM"
+  clipping: "Everyone admits that fixing all bugs in a piece of software is an uphill battle with diminishing returns; weeding out all the little imperfections takes proportionally more time as you go on."
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: note
+  page: 121
+  location_start: 181
+  added: "Thursday, May 18, 2017 11:46:16 AM"
+  clipping: "Error rate of rare bugs"
+-
+  title: "ferd.ca -> The Zen of Erlang (ferd.ca)"
+  type: highlight
+  page: 121
+  location_start: 181
+  location_end: 181
+  added: "Thursday, May 18, 2017 11:46:16 AM"
+  clipping: "a once in a billion bug will show up every 3 hours in a system doing 100,000 requests a second,"
+-
+  title: "Making Human Settlement of Space a Reality | NASA Administrator (Administrator Charles Bolden)"
+  type: note
+  page: 121
+  location_start: 46
+  added: "Thursday, May 18, 2017 12:16:36 PM"
+  clipping: "Private sector ISS module"
+-
+  title: "Making Human Settlement of Space a Reality | NASA Administrator (Administrator Charles Bolden)"
+  type: highlight
+  page: 121
+  location_start: 43
+  location_end: 46
+  added: "Thursday, May 18, 2017 12:16:36 PM"
+  clipping: "Recently, NASA asked the private sector how it might use an available docking port on the ISS. One of the potential uses of such a port would be preparation for one or more future commercial stations in Low Earth Orbit, ready to take over for the Space Station once its mission ends in the 2020s. The private sector responded enthusiastically, and those responses indicated a strong desire by U.S. companies to attach a commercial module to the ISS that could meet the needs of NASA as well as those of private entrepreneurs."
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: note
+  page: 121
+  location_start: 189
+  added: "Thursday, May 18, 2017 12:28:16 PM"
+  clipping: "Feynmans dad teaching"
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: highlight
+  page: 121
+  location_start: 184
+  location_end: 189
+  added: "Thursday, May 18, 2017 12:28:16 PM"
+  clipping: "That’s the kind of thing he would do: he would explain all this stuff, you know — that this ice moves; it looks solid, but it moves, with this tremendous weight and all this height, gradually, year by year, an inch every year, grinding and pushing — and so on. He described vividly what was going on. That’s the kind of thing. Not just “This is glacier cracks,” you see — quite different. I mean, the ice had to be felt, as you saw the top of it. Then he would tell me, “How do you think we know that there were glaciers all over the world at a certain time?” See, after we would look at it, he would say things like that -– “How do you think anybody knows that there were glaciers in the past?” So I said maybe — I don’t know, I don’t remember exactly."
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: note
+  page: 121
+  location_start: 196
+  added: "Thursday, May 18, 2017 12:29:31 PM"
+  clipping: "Feynman's dad teaching "
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: highlight
+  page: 121
+  location_start: 191
+  location_end: 196
+  added: "Thursday, May 18, 2017 12:29:31 PM"
+  clipping: "A thing that was very important about my father was not the facts but the process, the meaning of everything, how we find out, what is the consequence of finding out such a rock—with a vivid description of the ice, which was probably not exactly right. Perhaps the speed was not an inch a year but ten feet a year. I never knew. He never knew. But he would describe anyway, in a vivid way, and then always with some kind of lesson about it like, “How do you think we ever find these things out?” And there, of course, was standing if front of me, the method. But that’s the kind of guy he was. So it’s not hard to understand I’ve been interested in science. It was very good."
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: note
+  page: 121
+  location_start: 221
+  added: "Thursday, May 18, 2017 12:31:05 PM"
+  clipping: "Feynman sister"
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: highlight
+  page: 121
+  location_start: 220
+  location_end: 221
+  added: "Thursday, May 18, 2017 12:31:05 PM"
+  clipping: "Joan Feynman — Joan Hirschberg."
+-
+  title: "Sapiens: A Brief History of Humankind (Harari, Yuval Noah)"
+  type: note
+  page: 121
+  location_start: 112
+  added: "Thursday, May 18, 2017 12:45:45 PM"
+  clipping: "species"
+-
+  title: "Sapiens: A Brief History of Humankind (Harari, Yuval Noah)"
+  type: highlight
+  page: 121
+  location_start: 111
+  location_end: 112
+  added: "Thursday, May 18, 2017 12:45:45 PM"
+  clipping: "Biologists classify organisms into species. Animals are said to belong to the same species if they tend to mate with each other, giving birth to fertile offspring."
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: note
+  page: 121
+  location_start: 14
+  added: "Thursday, May 18, 2017 12:57:14 PM"
+  clipping: "Effects of information overload"
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: highlight
+  page: 121
+  location_start: 13
+  location_end: 14
+  added: "Thursday, May 18, 2017 12:57:14 PM"
+  clipping: "Information overload is a mentally, and physically, taxing condition. Symptoms include sluggish thinking, a flitting mind, and stifled creativity."
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: note
+  page: 121
+  location_start: 52
+  added: "Thursday, May 18, 2017 1:00:20 PM"
+  clipping: "Remembering stuff under information overload"
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: highlight
+  page: 121
+  location_start: 51
+  location_end: 52
+  added: "Thursday, May 18, 2017 1:00:20 PM"
+  clipping: "He asserts that “there’s this bottleneck coming from our senses into our memory…the information we’re experiencing comes in faster than the memory system can write it all down.”"
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: note
+  page: 121
+  location_start: 55
+  added: "Thursday, May 18, 2017 1:01:09 PM"
+  clipping: "How much brains meaningfully store"
+-
+  title: "Drowning in a Sea of Information — Digital Culturist (Clayton d'Arnault)"
+  type: highlight
+  page: 121
+  location_start: 54
+  location_end: 55
+  added: "Thursday, May 18, 2017 1:01:09 PM"
+  clipping: "In fact, we only meaningfully store and use 50% of that daily information according to Dr. Dimitrios Tsivrikos, Consumer and Business Psychologist at University College London."
+-
+  title: "Thrackerz0d comments on What is something rich people buy that poor people know nothing about? (reddit.com)"
+  type: note
+  page: 121
+  location_start: 67
+  added: "Thursday, May 18, 2017 1:40:01 PM"
+  clipping: "Billionaire perspective"
+-
+  title: "Thrackerz0d comments on What is something rich people buy that poor people know nothing about? (reddit.com)"
+  type: highlight
+  page: 121
+  location_start: 64
+  location_end: 67
+  added: "Thursday, May 18, 2017 1:40:01 PM"
+  clipping: "OK--let's compare it with someone who makes $40,000/year. It is 10,000x more. Now let's look at prices the way he might. A new Lambo--$235,000 becaome $23.50. First class ticket internationally? $10,000 becomes $1. A full time executive level helper? $8,000/month becomes $0.80/month. A $10mm piece of art you love? $1000. Expensive, so you have to plan a bit. A suite at the best hotel in NYC $10,000/night is $1/night. A $50million home in the Hamptons? $5,000."
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: bookmark
+  page: 121
+  location_start: 421
+  added: "Thursday, May 18, 2017 6:37:20 PM"
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: note
+  page: 121
+  location_start: 576
+  added: "Friday, May 19, 2017 5:41:39 AM"
+  clipping: "Feynmans father translating things"
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: highlight
+  page: 121
+  location_start: 569
+  location_end: 576
+  added: "Friday, May 19, 2017 5:41:40 AM"
+  clipping: "my father used to sit me on his lap, and the one book that we did use all the time was the ENCYCLOPEDIA BRITANNICA. He used to sit me on his lap when I was a kid and read out of the damned thing. There would be pictures of dinosaurs, and then he would read. He read the long words –- “the dinosaur” so and so “attains a length of so and so many feet and the head is so and so many feet,” six feet wide or something. He would always stop and say, “You know what that means, 50 feet high and 6 feet wide, or 20 feet high and 6 feet wide?” “It means, if the dinosaur’s standing in our front yard, and your bedroom window, you know, is on the second floor, you’d see out the window his head standing looking at you. That’s what 20 feet is, because the height of one story’s about 10 feet. Further. If he tries to put his head in the window, he just can’t quite make it, has to break the sides.” I give this illustration because he would translate everything, and I learned to translate everything, so it’s the same disease. When I read something, more or less, I always translate it as best I can into, what it really means, you see."
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: note
+  page: 121
+  location_start: 1211
+  added: "Wednesday, May 31, 2017 11:32:41 AM"
+  clipping: "Feynman rejected from columbia"
+-
+  title: "Richard Feynman - Session I (aip.org)"
+  type: highlight
+  page: 121
+  location_start: 1211
+  location_end: 1211
+  added: "Wednesday, May 31, 2017 11:32:42 AM"
+  clipping: "I was not accepted at Columbia."
+-
+  title: "Superintelligence: Paths, Dangers, Strategies (Bostrom, Nick)"
+  type: note
+  page: 121
+  location_start: 2084
+  added: "Wednesday, May 31, 2017 11:48:34 AM"
+  clipping: "People involved in starting the Manhatten Project"
+-
+  title: "Superintelligence: Paths, Dangers, Strategies (Bostrom, Nick)"
+  type: highlight
+  page: 121
+  location_start: 2082
+  location_end: 2084
+  added: "Wednesday, May 31, 2017 11:48:34 AM"
+  clipping: "Getting the Manhattan Project started took an extraordinary effort by several visionary physicists, including especially Mark Oliphant and Leó Szilárd: the latter persuaded Eugene Wigner to persuade Albert Einstein to put his name on a letter to persuade President Franklin D. Roosevelt to look into the matter."
