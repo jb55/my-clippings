@@ -1,961 +1,134 @@
 ---
 -
-  title: "Lightning RFCs (Rusty Russell)"
+  title: "The Good Widow: A Novel (Fenton, Liz)"
   type: highlight
-  location_start: 82
-  location_end: 82
-  added: "Tuesday, October 10, 2017 1:19:12 AM"
-  clipping: "The default TCP port is 9735. This corresponds to hexadecimal 0x2607, the Unicode code point for LIGHTNING."
+  location_start: 1904
+  location_end: 1904
+  added: "Friday, August 11, 2017 2:01:26 PM"
+  clipping: "You need to get over your obsession with coloring inside the lines.”"
 -
-  title: "﻿Lightning RFCs (Rusty Russell)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 440
-  location_end: 444
-  added: "Tuesday, October 10, 2017 11:07:44 PM"
-  clipping: "If the receiver agrees with the fee, it SHOULD reply with a closing_signed with the same fee_satoshis value, otherwise it MUST propose a value strictly between the received fee_satoshis and its previously-sent fee_satoshis. Rationale The “strictly between” requirements ensure that we make forward progress, even if only by a single satoshi at a time. To avoid keeping state and handle the corner case where fees have shifted between disconnection and reconnection, negotiation restarts on reconnection."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:24:58 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "﻿Lightning RFCs (Rusty Russell)"
-  type: note
-  location_start: 444
-  added: "Tuesday, October 10, 2017 11:08:09 PM"
-  clipping: "Lightning fee negotiation"
--
-  title: "﻿A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 1753
-  location_end: 1755
-  added: "Wednesday, October 11, 2017 10:52:43 PM"
-  clipping: "Within the next few years, this new biotechnology will give us higher-yielding crops, healthier livestock, and more nutritious foods. Within a few decades, we might well have genetically engineered pigs that can serve as human organ donors—but we could also have woolly mammoths, winged lizards, and unicorns. No, I am not kidding."
--
-  title: "Schnorr Signatures: An Overview (Christopher Allen)"
-  type: highlight
-  location_start: 21
-  location_end: 24
-  added: "Thursday, October 19, 2017 8:33:10 PM"
-  clipping: "High privacy. Third parties can’t see the participants, and only the participants can see the policy. Low accountability. For an M of N multisig that only requires some parties to sign, you can’t see who the signors are. For example, in a 3 of 5 multisig, you can see that 3 of"
--
-  title: "Schnorr Signatures: An Overview (Christopher Allen)"
-  type: highlight
-  location_start: 21
-  location_end: 24
-  added: "Thursday, October 19, 2017 8:33:17 PM"
-  clipping: "High privacy. Third parties can’t see the participants, and only the participants can see the policy. Low accountability. For an M of N multisig that only requires some parties to sign, you can’t see who the signors are. For example, in a 3 of 5 multisig, you can see that 3 of the allowed parties signed, but not who they are."
--
-  title: "Schnorr Signatures: An Overview (Christopher Allen)"
-  type: note
-  location_start: 24
-  added: "Thursday, October 19, 2017 8:33:41 PM"
-  clipping: "Schnorr signature privacy"
--
-  title: "Schnorr Signatures: An Overview (Christopher Allen)"
-  type: highlight
-  location_start: 46
-  location_end: 48
-  added: "Thursday, October 19, 2017 8:36:29 PM"
-  clipping: "However, Pieter Wuille’s Tree Signatures appear to offer even more capabilities. Tree signatures implement M of N multisigs as a Merkle tree filled with N of N multisigs; together, this combined structure represents many additional options for multisigs, as as \"Either A and B signed, or 2 out of C, D and E signed\"."
--
-  title: "Mastering Bitcoin: Programming the Open Blockchain (Antonopoulos, Andreas M.)"
-  type: bookmark
-  location_start: 3440
-  added: "Saturday, October 21, 2017 4:48:25 PM"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: highlight
-  location_start: 1459
-  location_end: 1459
-  added: "Saturday, November 18, 2017 6:52:53 AM"
-  clipping: "Relativistic Cut-off for Classical Electrodynamics?”"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: highlight
-  location_start: 1459
-  location_end: 1459
-  added: "Saturday, November 18, 2017 6:53:06 AM"
-  clipping: "“A Relativistic Cut-off for Classical Electrodynamics?”"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: note
-  location_start: 1459
-  added: "Saturday, November 18, 2017 6:54:24 AM"
-  clipping: "Feynmans review of the paper he wrote with Wheeler. a reorientation of physics"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: highlight
-  location_start: 1467
-  location_end: 1467
-  added: "Saturday, November 18, 2017 6:55:32 AM"
-  clipping: "“Space-Time Approach to Non-Relativistic Quantum Mechanics,”"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: note
-  location_start: 1467
-  added: "Saturday, November 18, 2017 6:56:03 AM"
-  clipping: "another paper by feynman on his work with wheeler"
--
-  title: "Richard Feynman - Session II (aip.org)"
-  type: highlight
-  location_start: 1478
-  location_end: 1479
-  added: "Saturday, November 18, 2017 6:56:31 AM"
-  clipping: "Because an electron and a positron are the same particle, reversed in time, in some situations,"
--
-  title: "Montclare protein engineering lecture 10: Directed evolution (Unknown)"
-  type: highlight
-  location_start: 43
-  location_end: 44
-  added: "Monday, November 20, 2017 8:56:41 PM"
-  clipping: "Code is heavily redundant. Crick wobble hypothesis."
--
-  title: "Review of 'Inadequate Equilibria' by Eliezer Yudkowsky (Shtetl-Optimized)"
-  type: highlight
-  location_start: 11
-  location_end: 12
-  added: "Tuesday, November 21, 2017 2:16:20 AM"
-  clipping: "To summarize, he argues that contrarianism usually won't work if your goal is to outcompete many other actors in a free market for a scarce resource that they all want too, like money or status or fame."
--
-  title: "Kolmogorov Complicity And The Parable Of Lightning (Slate Star Codex)"
-  type: highlight
-  location_start: 82
-  location_end: 83
-  added: "Tuesday, November 21, 2017 2:25:22 AM"
-  clipping: "A really good scientist is like a heat-seeking missile programmed to seek out failures in existing epistemic paradigms."
--
-  title: "How Did New Atheism Fail So Miserably? (Slate Star Codex)"
-  type: highlight
-  location_start: 15
-  location_end: 15
-  added: "Tuesday, November 21, 2017 2:33:14 AM"
-  clipping: "do with a litany of grievances against the believoisie"
--
-  title: "How Did New Atheism Fail So Miserably? (Slate Star Codex)"
-  type: highlight
-  location_start: 37
-  location_end: 38
-  added: "Tuesday, November 21, 2017 2:35:41 AM"
-  clipping: "This is my intuitive feeling of what was wrong with New Atheism as well. It wasn't that they were wrong. Just that they were right in a loud, boring, and pointless way."
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 156
-  location_end: 157
-  added: "Tuesday, November 21, 2017 8:50:26 PM"
-  clipping: "(Biodegradation is not necessarily the panacea it was once thought to be, since it releases greenhouse gases, while non-degradation, ironically, sequesters carbon.)"
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 159
-  location_end: 160
-  added: "Tuesday, November 21, 2017 8:51:05 PM"
-  clipping: "synthetic biology—the science of selectively altering the genes of organisms to make them do things that they wouldn’t do in their original, natural, untouched state."
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 184
-  location_end: 187
-  added: "Tuesday, November 21, 2017 8:53:40 PM"
-  clipping: "Just as computers were universal machines in the sense that given the appropriate programming they could simulate the activities of any other machine, so biological organisms approached the condition of being universal constructors in the sense that with appropriate changes to their genetic programming, they could be made to produce practically any imaginable artifact. A living organism, after all, was a ready-made, prefabricated production system that, like a computer, was governed by a program, its genome."
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 190
-  location_end: 191
-  added: "Tuesday, November 21, 2017 8:53:53 PM"
-  clipping: "Microbes cannot convert lead into gold, for example. But they can convert sewage into electricity."
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 213
-  location_end: 214
-  added: "Tuesday, November 21, 2017 8:56:34 PM"
-  clipping: "Microbes were made to detect arsenic in drinking water at extremely low concentrations (as low as 5 parts per billion) and report the fact by changing color."
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 246
-  location_end: 247
-  added: "Tuesday, November 21, 2017 9:01:55 PM"
-  clipping: "If bioplastics are the materials breakthrough of the 21st century, houses grown from seeds may be the breakthrough of the 22nd.”"
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 826
-  location_end: 830
-  added: "Friday, November 24, 2017 8:35:37 PM"
-  clipping: "Under the Microscope, a collection of photographs taken with electron microscopes, graphically depicts the very moment of the cell’s destruction: a malign-looking fleet of new T4 phage particles, each of them an exact duplicate of the lunar landing module virus that started the whole chain reaction, pour out of the bacterium’s ruptured membrane in what looks like a microbial-level explosion."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 1793
-  location_end: 1795
-  added: "Monday, November 27, 2017 8:50:25 PM"
-  clipping: "species weren’t fixed and unchangeable but rather “as plastic in our hands as clay in the hands of the potter or colors on the artist’s canvas, and can readily be molded into more beautiful forms and colors than any painter or sculptor can ever hope to bring forth.”"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 1845
-  location_end: 1845
-  added: "Monday, November 27, 2017 8:55:05 PM"
-  clipping: "DNA sequences are integrated into the genome. Since"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 1845
-  location_end: 1849
-  added: "Monday, November 27, 2017 8:55:15 PM"
-  clipping: "Since 1994, when the first commercially grown GMO plant approved for human consumption was introduced—a slow-ripening tomato variant known as the Flavr Savr—well over fifty GMO crops have been developed and approved for commercial cultivation in the United States, among them canola, corn, cotton, papaya, rice, soybean, squash, and many more. In 2015, 92 percent of all corn, 94 percent of all cotton, and 94 percent of all soybeans grown in the United States were genetically engineered in this way."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 1962
-  location_end: 1965
-  added: "Monday, November 27, 2017 9:06:54 PM"
-  clipping: "Researchers are now investigating whether replicating this condition with deliberate mutations—that is, stimulating muscle growth by inactivating the myostatin gene—may be a viable therapy for treating muscle-wasting diseases such as muscular dystrophy. Some writers have even begun fantasizing about editing the myostatin gene in normal individuals to unleash enhanced, superhuman strength—although"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 1965
-  added: "Monday, November 27, 2017 9:07:03 PM"
-  clipping: "Hulk"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: bookmark
-  location_start: 1973
-  added: "Monday, November 27, 2017 9:07:47 PM"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2035
-  location_end: 2037
-  added: "Monday, November 27, 2017 9:13:50 PM"
-  clipping: "Their accelerated lifespan—one mouse year equals roughly thirty human years—means that the entire life cycle can be studied in just a few years in the lab."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2104
-  location_end: 2108
-  added: "Monday, November 27, 2017 9:18:53 PM"
-  clipping: "Some bioethicists, like Jeantine Lunshof at Harvard Medical School, are concerned about genetic manipulation being used “for the sole purpose of satisfying idiosyncratic aesthetic preferences of humans.” Yet I’m not convinced this is categorically a bad thing. After all, at any ordinary dog park, you could find a four-pound Chihuahua frolicking next to a two-hundred-pound Great Dane—both members of the same species. What is breeding but another tool of genetic manipulation, like CRISPR, only less predictable and efficient?"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2108
-  location_end: 2109
-  added: "Monday, November 27, 2017 9:19:18 PM"
-  clipping: "There’s even a case to be made that this kind of genetic manipulation is better than breeding. Unlike micropigs, whose health is no different than their normal-size relatives, extensive inbreeding of dogs has had devastating health consequences."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2120
-  location_end: 2121
-  added: "Monday, November 27, 2017 9:20:33 PM"
-  clipping: "If genetic manipulation succeeded in dehorning cows, why not use it to intentionally horn horses?"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2120
-  location_end: 2121
-  added: "Monday, November 27, 2017 9:21:14 PM"
-  clipping: "If genetic manipulation succeeded in dehorning cows, why not use it to intentionally horn horses? And if we’re thinking about adding appendages, why stop"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2120
-  location_end: 2121
-  added: "Monday, November 27, 2017 9:21:19 PM"
-  clipping: "If genetic manipulation succeeded in dehorning cows, why not use it to intentionally horn horses?"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 2121
-  added: "Monday, November 27, 2017 9:24:10 PM"
-  clipping: "CRISPR will give us unicorns"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2123
-  location_end: 2125
-  added: "Monday, November 27, 2017 9:26:56 PM"
-  clipping: "Scholars and journalists have already started dreaming that CRISPR might be used to create mythical creatures like winged dragons by editing the genes of Komodo dragons, noting in a prominent bioethics journal that, while basic physics would prevent them from breathing"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2123
-  location_end: 2125
-  added: "Monday, November 27, 2017 9:27:06 PM"
-  clipping: "Scholars and journalists have already started dreaming that CRISPR might be used to create mythical creatures like winged dragons by editing the genes of Komodo dragons, noting in a prominent bioethics journal that, while basic physics would prevent them from breathing fire,"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 2125
-  added: "Monday, November 27, 2017 9:28:47 PM"
-  clipping: "We could make dragons with CRISPR. No fire breathing yet."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2219
-  location_end: 2222
-  added: "Tuesday, November 28, 2017 7:53:13 PM"
-  clipping: "This thoroughness is what makes gene drives so powerful—and so alarming. It’s been estimated that, had a fruit fly escaped the San Diego lab during the first gene drive experiments, it would have spread genes encoding CRISPR, along with the yellow-body trait, to between 20 and 50 percent of all fruit flies worldwide."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2248
-  location_end: 2251
-  added: "Tuesday, November 28, 2017 8:32:44 PM"
-  clipping: "Would it be a blessing or a curse to suddenly be rid of the winged pests that have inhabited the earth for more than one hundred million years? Somewhat incredibly, scientists don’t seem overly concerned about a world without mosquitoes. As one entomologist put it, “If we eradicated them tomorrow, the ecosystems where they are active will hiccup and then get on with life.”"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2330
-  location_end: 2334
-  added: "Tuesday, November 28, 2017 9:21:50 PM"
-  clipping: "Normally, by the time a mouse with a disease-causing genetic mutation reaches adulthood, it’s too late to correct the error; what began as a mistake in a single fertilized egg cell has been copied into billions of descendant cells, making it all but impossible to stamp out every last trace of the disease. (Imagine trying to correct an error in a news article after the newspapers have been printed and delivered, as opposed to when the article is still just a text file on the editor’s computer.)"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2353
-  location_end: 2354
-  added: "Tuesday, November 28, 2017 9:23:50 PM"
-  clipping: "CRISPR offers the greatest hope to treat monogenic genetic diseases—those caused by a single mutated gene."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2391
-  location_end: 2392
-  added: "Monday, December 4, 2017 7:10:26 PM"
-  clipping: "The biotechnology company Bluebird Bio has been developing a product that treats beta-thalassemia and sickle cell disease by inserting new beta-globin genes into blood stem cells,"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2399
-  location_end: 2404
-  added: "Monday, December 4, 2017 7:11:28 PM"
-  clipping: "Believe it or not, some lucky people are naturally resistant to HIV. These individuals lack thirty-two letters of DNA in the gene for a protein called CCR5, which is located on the surface of white blood cells—those cells that form the bedrock of the body’s immune system. CCR5 proteins are one of the parts of the cell’s surface that the HIV virus latches onto in the initial stage of its invasion. This specific, thirty-two-letter deletion causes the CCR5 protein to be truncated and prevents it from making its way to the cell surface. Without CCR5 proteins to attach to, HIV molecules can’t infect the cells."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 2404
-  added: "Monday, December 4, 2017 7:11:55 PM"
-  clipping: "Natural HIV resistnce"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2591
-  location_end: 2593
-  added: "Wednesday, December 6, 2017 10:44:51 PM"
-  clipping: "Editas Medicine has an exclusive multimillion-dollar license with Juno Therapeutics to develop T cell therapies, and Intellia Therapeutics has partnered with the major health-care firm Novartis to similarly pursue cancer immunotherapy."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2759
-  location_end: 2761
-  added: "Wednesday, December 6, 2017 10:56:08 PM"
-  clipping: "Above all, he questioned whether any scientist could wield this newfound power responsibly or if instead the scientist “might be like the young boy who loves to take things apart. He is bright enough to disassemble a watch, and maybe even bright enough to get it back together again so that it works. But what if he tries to ‘improve’"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 2759
-  location_end: 2763
-  added: "Wednesday, December 6, 2017 10:56:25 PM"
-  clipping: "Above all, he questioned whether any scientist could wield this newfound power responsibly or if instead the scientist “might be like the young boy who loves to take things apart. He is bright enough to disassemble a watch, and maybe even bright enough to get it back together again so that it works. But what if he tries to ‘improve’ it? Maybe put on bigger hands so that the time can be read more easily. But if the hands are too heavy for the mechanism, the watch will run slowly, erratically, or not at all . . . Attempts on his part to improve the watch will probably only harm it.”"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 3003
-  location_end: 3004
-  added: "Wednesday, December 6, 2017 11:18:31 PM"
-  clipping: "I’d recently co-founded an institute in the Bay Area called the Innovative Genomics Institute (IGI) with the goal of advancing gene-editing technologies,"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 3261
-  location_end: 3262
-  added: "Wednesday, December 6, 2017 11:40:27 PM"
-  clipping: "Any mutations that CRISPR might make—intentional or not—would almost certainly pale in comparison to the genetic storm that rages inside each of us from birth to death."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 3366
-  location_end: 3370
-  added: "Wednesday, December 6, 2017 11:49:48 PM"
-  clipping: "But plenty of other genetic enhancements do result from simple mutations that could be re-created with CRISPR. For example, mutations in the EPOR gene, which responds to the hormone erythropoietin (the famous doping drug used by Lance Armstrong and countless other athletes), confer exceptional levels of endurance; mutations in a gene called LRP5 endow individuals with extra-strong bones; mutations in the MSTN gene (the same myostatin gene that’s been edited to create supermuscular pigs and dogs) are known to result in leaner muscles and greater muscle mass;"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 3370
-  added: "Wednesday, December 6, 2017 11:50:27 PM"
-  clipping: "CRISPR super soldiers"
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: highlight
-  location_start: 3396
-  location_end: 3401
-  added: "Wednesday, December 6, 2017 11:53:03 PM"
-  clipping: "But even in countries with comprehensive health-care systems, where people from all classes could benefit from germline editing, there’s a risk that it might give rise to hitherto unseen genetic inequalities, creating a new “gene gap” that would only widen over time. Since the wealthy would be able to afford the procedure more often, and since any beneficial genetic modifications made to an embryo would be transmitted to all of that person’s offspring, linkages between class and genetics would ineluctably grow from one generation to the next, no matter how small the disparity in access might be. Consider the effect this could have on the socioeconomic fabric of society. If you think our world is unequal now, just imagine it stratified along both socioeconomic and genetic lines."
--
-  title: "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution (Doudna, Jennifer A.;Sternberg, Samuel H.)"
-  type: note
-  location_start: 3401
-  added: "Wednesday, December 6, 2017 11:55:22 PM"
-  clipping: "A gene gap could drive more inequality"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 374
-  location_end: 374
-  added: "Monday, December 18, 2017 8:06:44 PM"
-  clipping: "The sender MUST set: - temporary_channel_id the same as the temporary_channel_id in the"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 451
-  location_end: 452
-  added: "Monday, December 18, 2017 8:09:14 PM"
-  clipping: "Closing Negotiation: closing_signed Once shutdown is complete and the channel is empty"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 439
-  location_end: 450
-  added: "Monday, December 18, 2017 8:10:57 PM"
-  clipping: "shutdown - if both nodes advertised the option_upfront_shutdown_script feature, and the receiving node received a non-zero-length shutdown_scriptpubkey in open_channel or accept_channel, and that shutdown_scriptpubkey is not equal to scriptpubkey: - MUST fail the connection. Rationale If channel state is always “clean” (no pending changes) when a shutdown starts, the question of how to behave if it wasn’t is avoided: the sender always sends a commitment_signed first. As shutdown implies a desire to terminate, it implies that no new HTLCs will be added or accepted. The scriptpubkey forms include only standard forms accepted by the Bitcoin network, which ensures the resulting transaction will propagate to miners. The option_upfront_shutdown_script feature means that the node wanted to pre-commit to shutdown_scriptpubkey in case it was compromised somehow. This is a weak commitment (a malevolent implementation tends to ignore specifications like this one!), but it provides an incremental improvement in security by requiring the cooperation of the receiving node to change the scriptpubkey. The shutdown response requirement implies that the node sends commitment_signed to commit any outstanding changes before replying; however, it could theoretically reconnect instead, which"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 439
-  location_end: 450
-  added: "Monday, December 18, 2017 8:10:59 PM"
-  clipping: "shutdown - if both nodes advertised the option_upfront_shutdown_script feature, and the receiving node received a non-zero-length shutdown_scriptpubkey in open_channel or accept_channel, and that shutdown_scriptpubkey is not equal to scriptpubkey: - MUST fail the connection. Rationale If channel state is always “clean” (no pending changes) when a shutdown starts, the question of how to behave if it wasn’t is avoided: the sender always sends a commitment_signed first. As shutdown implies a desire to terminate, it implies that no new HTLCs will be added or accepted. The scriptpubkey forms include only standard forms accepted by the Bitcoin network, which ensures the resulting transaction will propagate to miners. The option_upfront_shutdown_script feature means that the node wanted to pre-commit to shutdown_scriptpubkey in case it was compromised somehow. This is a weak commitment (a malevolent implementation tends to ignore specifications like this one!), but it provides an incremental improvement in security by requiring the cooperation of the receiving node to change the scriptpubkey. The shutdown response requirement implies that the node sends commitment_signed to commit any outstanding changes before replying; however, it could theoretically reconnect instead, which"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 414
-  location_end: 414
-  added: "Monday, December 18, 2017 8:15:43 PM"
-  clipping: "be negotiated with lower fees."
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 425
-  location_end: 426
-  added: "Monday, December 18, 2017 8:17:22 PM"
-  clipping: "a shutdown message to initiate closing, along"
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 426
-  location_end: 426
-  added: "Monday, December 18, 2017 8:17:55 PM"
-  clipping: "scriptpubkey it wants to be paid to."
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 425
-  location_end: 426
-  added: "Monday, December 18, 2017 8:20:09 PM"
-  clipping: "a shutdown message to initiate closing, along with the scriptpubkey it wants to be paid to."
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: highlight
-  location_start: 289
-  location_end: 289
-  added: "Tuesday, December 26, 2017 11:09:55 PM"
-  clipping: "htlc_minimum_msat indicates the smallest value HTLC this node will accept."
--
-  title: "Lightning Network In-Progress Specifications (Rusty Russell et al.)"
-  type: note
-  location_start: 289
-  added: "Tuesday, December 26, 2017 11:10:33 PM"
-  clipping: "Can have 1 sat as min htlc"
--
-  title: "Statebox: A Universal Language of Distributed Systems (John Baez)"
-  type: highlight
-  location_start: 139
-  location_end: 143
-  added: "Friday, January 26, 2018 11:00:56 PM"
-  clipping: "Open Petri nets are the workhorses of Statebox. They are the morphisms of a category which is itself monoidal--and via openness it is even richer and more versatile. Most importantly it is compact closed, which introduces a simple but crucial duality into computation--input-output interchange--which is impossible in conventional cartesian closed computation, and actually brings the paradigm closer to quantum computation"
--
-  title: "Merkleized abstract syntax trees (Mark Friedenbach)"
-  type: highlight
-  location_start: 134
-  location_end: 135
-  added: "Saturday, January 27, 2018 7:53:48 AM"
-  clipping: "signature size, essentially. Malleability in both cases isn't"
--
-  title: "The Case against Education: Why the Education System Is a Waste of Time and Money (Caplan, Bryan)"
-  type: highlight
-  location_start: 343
-  location_end: 345
-  added: "Wednesday, February 7, 2018 5:20:54 PM"
-  clipping: "Permanent residents of the Ivory Tower often congratulate themselves for broadening students’ horizons. For the most part, however, “broaden” means “expose students to yet another subject they’ll never use in real life.”"
--
-  title: "The Case against Education: Why the Education System Is a Waste of Time and Money (Caplan, Bryan)"
-  type: highlight
-  location_start: 354
-  location_end: 356
-  added: "Wednesday, February 7, 2018 5:22:11 PM"
-  clipping: "Why don’t educators familiarize students with compensation and job satisfaction in common occupations? Strategies for breaking into various industries? Sectors with rapidly changing employment? Why don’t schools make students spend a full year learning how to write a resume or affect a can-do attitude?"
--
-  title: "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves (Church, George M.)"
-  type: highlight
-  location_start: 1058
-  location_end: 1060
-  added: "Saturday, February 10, 2018 7:37:12 PM"
-  clipping: "One of the primary errors of eugenics was the search for an optimal genetic specimen. Even if there were such a thing, it would be at risk, because one of the main lessons that we learn from nature is that species that are lowest in diversity are most vulnerable to extinction."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 164
-  location_end: 166
-  added: "Saturday, February 17, 2018 7:36:52 AM"
-  clipping: "The human body functions as a complete system – it works that way, and it likes to be trained that way. It doesn’t like to be separated into its constituent components and then have those components exercised separately, since the strength obtained from training will not be utilized in this way."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 173
-  location_end: 174
-  added: "Saturday, February 17, 2018 7:38:14 AM"
-  clipping: "Properly performed, full-range-of-motion barbell exercises are essentially the functional expression of human skeletal and muscular anatomy under a load."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 186
-  location_end: 188
-  added: "Saturday, February 17, 2018 7:39:59 AM"
-  clipping: "Since they always work together, why should they be exercised separately? Because somebody invented a machine that lets"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 186
-  location_end: 188
-  added: "Saturday, February 17, 2018 7:40:03 AM"
-  clipping: "Since they always work together, why should they be exercised separately?"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 186
-  location_end: 189
-  added: "Saturday, February 17, 2018 7:40:07 AM"
-  clipping: "Since they always work together, why should they be exercised separately? Because somebody invented a machine that lets us?"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 271
-  location_end: 272
-  added: "Saturday, February 17, 2018 8:56:58 AM"
-  clipping: "while squatting. Humans are bipedal creatures with prehensile"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 292
-  location_end: 294
-  added: "Saturday, February 17, 2018 8:59:25 AM"
-  clipping: "A correct squat perfectly balances all the forces around the knees and the hips, using these muscles in exactly the way the skeletal biomechanics are designed for them to be used, over their full range of motion. The"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 292
-  location_end: 294
-  added: "Saturday, February 17, 2018 8:59:32 AM"
-  clipping: "A correct squat perfectly balances all the forces around the knees and the hips, using these muscles in exactly the way the skeletal biomechanics are designed for them to be used, over their full range of motion."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 404
-  location_end: 405
-  added: "Sunday, February 18, 2018 5:20:49 PM"
-  clipping: "“good technique” in barbell training is easily and understandably defined as the ability of the lifter to keep the bar vertically aligned with the balance point."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 861
-  location_end: 862
-  added: "Wednesday, February 21, 2018 9:00:29 PM"
-  clipping: "Collective enforcement, then, is the essence of norms. This is what enables the egalitarian political order so characteristic of the forager lifestyle."
--
-  title: "Consider Phlebas (A Culture Novel Book 1) (Banks, Iain M.)"
-  type: bookmark
-  location_start: 2340
-  added: "Wednesday, February 21, 2018 10:20:00 PM"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 501
-  location_end: 502
-  added: "Thursday, February 22, 2018 4:02:35 AM"
-  clipping: "Any squat that is not deep is a partial squat, and partial squats stress the knees and the quadriceps without stressing the glutes, the adductors, or the hamstrings."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: bookmark
-  location_start: 528
-  added: "Thursday, February 22, 2018 4:06:19 AM"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 555
-  location_end: 557
-  added: "Thursday, February 22, 2018 4:09:29 AM"
-  clipping: "If it’s too heavy to squat below parallel, it’s too heavy to have on your back."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 557
-  location_end: 560
-  added: "Thursday, February 22, 2018 4:09:49 AM"
-  clipping: "There is simply no other exercise, and certainly no machine, that produces the level of central nervous system activity, improved balance and coordination, skeletal loading and bone density enhancement, muscular stimulation and growth, connective tissue stress and strength, psychological demand and toughness, and overall systemic conditioning than the correctly performed full squat."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: bookmark
-  location_start: 572
-  added: "Thursday, February 22, 2018 4:12:26 AM"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 585
-  location_end: 587
-  added: "Thursday, February 22, 2018 4:14:37 AM"
-  clipping: "Next, put your elbows against your knees, with the palms of your hands together, and shove your knees out (Figure 2-13). This will usually be a decent bottom position, and if your flexibility is not great, the position will act as a stretch if you maintain it for a few seconds."
--
-  title: "Consider Phlebas (A Culture Novel Book 1) (Banks, Iain M.)"
-  type: highlight
-  location_start: 3632
-  location_end: 3633
-  added: "Sunday, February 25, 2018 9:29:51 PM"
-  clipping: "the legs of cranes and leaping over lengths of thick hawsers."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: bookmark
-  location_start: 643
-  added: "Wednesday, March 7, 2018 5:50:02 PM"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 663
-  location_end: 665
-  added: "Wednesday, March 7, 2018 5:55:23 PM"
-  clipping: "Set the rack height so that the bar in the rack is at about the level of your mid-sternum. Many people will perceive this as too low, but it’s better to be a little low taking the bar out of the rack than to have to tiptoe back into the rack with a heavy weight."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 681
-  location_end: 682
-  added: "Wednesday, March 7, 2018 6:28:39 PM"
-  clipping: "The thumbs should be placed on top of the bar so that the wrists can be held in a straight line with the forearms."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 704
-  location_end: 707
-  added: "Wednesday, March 7, 2018 6:42:52 PM"
-  clipping: "First and foremost, ALWAYS STEP BACK OUT OF THE RACK. ALWAYS. NEVER PUT THE BAR BACK IN THE RACK BY STEPPING BACKWARDS. NEVER. This cannot be done safely. You should never be in a position to have to step backwards and rack a weight at the end of a set. You cannot see the hooks, and even if you have spotters, there will eventually be a wreck. If you do this, or permit it to be done by someone you’re training, you are a fool."
--
-  title: "Bitcoin Dev Chat: Priorities (Bitcoin Core Devs)"
-  type: highlight
-  location_start: 26
-  location_end: 27
-  added: "Sunday, March 11, 2018 8:54:47 AM"
-  clipping: "Just adding some sort of tool that shows the conflicts and what will be needing rebase– here’s 10 PRs ready for merge, if we do this one merged first, who else is going to be impacted. What is ready? Better tools around which pull requests are ready."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 725
-  location_end: 726
-  added: "Sunday, March 11, 2018 9:57:44 AM"
-  clipping: "The proper position in which to receive the bar from the rack."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 599
-  location_end: 600
-  added: "Sunday, March 11, 2018 10:07:43 AM"
-  clipping: "Your feet are flat on the floor, your knees are shoved out to where they are in a parallel line with your feet, and your knees are just a little in front of your toes."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 606
-  location_end: 608
-  added: "Monday, March 12, 2018 1:41:32 PM"
-  clipping: "Don’t think about your knees straightening out, don’t think about your feet pushing against the floor, and don’t even think about your legs. Just drive your hips up out of the bottom, and the rest will take care of itself."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 754
-  location_end: 757
-  added: "Monday, March 12, 2018 2:01:27 PM"
-  clipping: "If the form is good except for the depth, the squat itself will act as a stretch IF YOUR KNEES ARE OUT. And most of the time, if you are high, it is because your knees are not out. Most people who have problems with the squat – at this rank novice level as well as later on – do not shove their knees out enough."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 995
-  location_end: 995
-  added: "Tuesday, March 13, 2018 8:32:50 PM"
-  clipping: "The thighs will be parallel to the feet."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: highlight
-  location_start: 2131
-  location_end: 2132
-  added: "Wednesday, March 14, 2018 12:06:42 PM"
-  clipping: "The best way to position the grip efficiently is to set the grip width at your index fingers, and then rotate your hands into pronation by pointing your thumbs down toward your feet."
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: note
-  location_start: 2132
-  added: "Wednesday, March 14, 2018 12:06:52 PM"
-  clipping: "Press grip"
--
-  title: "Starting Strength (Rippetoe, Mark)"
-  type: bookmark
-  location_start: 2127
-  added: "Wednesday, March 14, 2018 12:10:44 PM"
--
-  title: "Debt - Updated and Expanded: The First 5,000 Years (Graeber, David)"
-  type: highlight
-  location_start: 380
-  location_end: 381
-  added: "Tuesday, March 20, 2018 8:38:31 PM"
-  clipping: "money’s capacity to turn morality into a matter of impersonal arithmetic—and by doing so, to justify things that would otherwise seem outrageous or obscene."
--
-  title: "Debt - Updated and Expanded: The First 5,000 Years (Graeber, David)"
-  type: highlight
-  location_start: 604
-  location_end: 607
-  added: "Tuesday, March 20, 2018 9:02:13 PM"
-  clipping: "So everyone will inevitably start stockpiling something they figure that everyone else is likely to want. This has a paradoxical effect, because at a certain point, rather than making that commodity less valuable (since everyone already has some) it becomes more valuable (because it becomes, effectively, currency):"
--
-  title: "Debt - Updated and Expanded: The First 5,000 Years (Graeber, David)"
-  type: highlight
-  location_start: 897
-  location_end: 901
-  added: "Thursday, March 22, 2018 3:36:16 PM"
-  clipping: "In fact, our standard account of monetary history is precisely backwards. We did not begin with barter, discover money, and then eventually develop credit systems. It happened precisely the other way around. What we now call virtual money came first. Coins came much later, and their use spread only unevenly, never completely replacing credit systems. Barter, in turn, appears to be largely a kind of accidental byproduct of the use of coinage or paper money: historically, it has mainly been what people who are used to cash transactions do when for one reason or another they have no access to currency."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1303
-  location_end: 1304
-  added: "Thursday, March 22, 2018 7:54:52 PM"
-  clipping: "In his 1967 book The Strategy of Conflict, Schelling studied what he called mixed-motive games."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1330
-  location_end: 1331
-  added: "Thursday, March 22, 2018 7:57:09 PM"
-  clipping: "Yet Schelling has argued that, in a variety of scenarios, limiting or sabotaging yourself is the winning move."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1332
-  location_end: 1334
-  added: "Thursday, March 22, 2018 7:57:46 PM"
-  clipping: "Classical decision theory has it right: there’s no value in sabotaging yourself per se. The value lies in convincing other players that you’ve sabotaged yourself. In the game of chicken, you don’t win because you’re unable to steer, but because your opponent believes you’re unable to steer."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1379
-  location_end: 1381
-  added: "Thursday, March 22, 2018 8:01:46 PM"
-  clipping: "Incidentally, this is why politicians make a great case study for self-deception. The social pressure on their beliefs is enormous. Psychologically, then, politicians don’t so much “lie” as regurgitate their own self-deceptions."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1385
-  location_end: 1386
-  added: "Thursday, March 22, 2018 8:02:24 PM"
-  clipping: "The Madman “I’m doing this no matter what,” says the Madman, “so stay outta my way!”"
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1383
-  location_end: 1384
-  added: "Thursday, March 22, 2018 8:02:31 PM"
-  clipping: "There are at least four ways that self-deception helps us come out ahead in mixed-motive scenarios. We’ll personify them in four different archetypes: the Madman, the Loyalist, the Cheerleader, and the Cheater."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1401
-  location_end: 1403
-  added: "Thursday, March 22, 2018 8:03:16 PM"
-  clipping: "The Loyalist “Sure, I’ll go along with your beliefs,” says the Loyalist, thereby demonstrating commitment and hoping to earn trust in return."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1421
-  location_end: 1423
-  added: "Thursday, March 22, 2018 8:04:43 PM"
-  clipping: "The Cheerleader “I know this is true,” the Cheerleader says. “Come on, believe it with me!”"
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1426
-  location_end: 1429
-  added: "Thursday, March 22, 2018 8:05:45 PM"
-  clipping: "The politician who’s confident she’s going to win no matter what will have an easier time rallying supporters than one who projects a more honest assessment of her chances. The startup founder who’s brimming with confidence, though it may be entirely unearned, will often attract more investors and recruit more employees than someone with an accurate assessment of his own abilities."
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1436
-  location_end: 1437
-  added: "Thursday, March 22, 2018 8:06:31 PM"
-  clipping: "The Cheater “I have no idea what you’re talking about,” the Cheater says in response to an accusation. “My motives were pure.”"
--
-  title: "The Elephant in the Brain: Hidden Motives in Everyday Life (Simler, Kevin;Hanson, Robin)"
-  type: highlight
-  location_start: 1449
-  location_end: 1450
-  added: "Thursday, March 22, 2018 8:07:43 PM"
-  clipping: "We might be hoping to intimidate them (like the Madman), earn their trust (like the Loyalist), change their beliefs (like the Cheerleader), or throw them off our trail (like the Cheater)."
--
-  title: "Introduction to Topology: Third Edition (Dover Books on Mathematics) (Mendelson, Bert)"
-  type: highlight
-  location_start: 114
-  location_end: 114
-  added: "Thursday, March 22, 2018 8:26:35 PM"
-  clipping: "topology consists of the study of collections of objects that possess a mathematical structure."
--
-  title: "Introduction to Topology: Third Edition (Dover Books on Mathematics) (Mendelson, Bert)"
-  type: highlight
-  location_start: 129
-  location_end: 133
-  added: "Thursday, March 22, 2018 8:28:35 PM"
-  clipping: "A topological space is a collection of objects (these objects usually being referred to as points), and a structure that endows this collection of points with some coherence, in the sense that we may speak of nearby points or points that in some sense are close together. This structure can be prescribed by means of a collection of subcollections of points called open sets. As we shall see, the major use of the concept of a topological space is that it provides us with an exact, yet exceedingly general setting for discussions that involve the concept of continuity."
--
-  title: "Superintelligence: Paths, Dangers, Strategies (Bostrom, Nick)"
-  type: highlight
-  location_start: 2875
-  location_end: 2879
-  added: "Monday, April 2, 2018 8:25:41 PM"
-  clipping: "The instrumental convergence thesis Several instrumental values can be identified which are convergent in the sense that their attainment would increase the chances of the agent’s goal being realized for a wide range of final goals and a wide range of situations, implying that these instrumental values are likely to be pursued by a broad spectrum of situated intelligent agents."
--
-  title: "Superintelligence: Paths, Dangers, Strategies (Bostrom, Nick)"
-  type: note
-  location_start: 2878
-  added: "Monday, April 2, 2018 8:30:44 PM"
-  clipping: "Satoshi as a superintelligent AI would fit the instrumental convergence thesis"
--
-  title: "Debt - Updated and Expanded: The First 5,000 Years (Graeber, David)"
-  type: highlight
-  location_start: 996
-  location_end: 997
-  added: "Sunday, June 10, 2018 9:06:04 AM"
-  clipping: "In this sense, the value of a unit of currency is not the measure of the value of an object, but the measure of one’s trust in other human beings."
--
-  title: "Debt - Updated and Expanded: The First 5,000 Years (Graeber, David)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 1026
-  location_end: 1028
-  added: "Sunday, June 17, 2018 2:12:18 AM"
-  clipping: "Tally sticks were quite explicitly IOUs: both parties to a transaction would take a hazelwood twig, notch it to indicate the amount owed, and then split it in half. The creditor would keep one half, called “the stock” (hence the origin of the term “stock holder”) and the debtor kept the other, called “the stub” (hence the origin of the term “ticket stub.”)"
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:25:42 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 1563
-  location_end: 1564
-  added: "Sunday, June 17, 2018 3:20:04 AM"
-  clipping: "French president Charles de Gaulle even sent a French military carrier to New York to get his nation's gold back,"
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:25:50 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 2249
-  location_end: 2251
-  added: "Sunday, June 17, 2018 4:40:58 AM"
-  clipping: "Several studies show that life satisfaction depends to a large degree on establishing intimate long‐term familial bonds with a partner and children."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:25:54 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 2255
-  location_end: 2257
-  added: "Sunday, June 17, 2018 4:41:46 AM"
-  clipping: "son of a rich family that had accumulated significant capital over generations, Keynes was a libertine hedonist who wasted most his adult life engaging in sexual relationships with children, including traveling around the Mediterranean to visit children's brothels."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:25:58 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 2328
-  location_end: 2330
-  added: "Sunday, June 17, 2018 4:46:52 AM"
-  clipping: "It was hard money that financed Bach's Brandenburg Concertos while easy money financed Miley Cyrus's twerks."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:26:00 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 2478
-  location_end: 2480
-  added: "Sunday, June 17, 2018 4:52:35 AM"
-  clipping: "Jimmy Wales, Wikipedia's founder, has stated that the idea for establishing Wikipedia came to him after he read this paper by Hayek and his explanation of knowledge."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:26:02 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 2474
-  location_end: 2480
-  added: "Sunday, June 17, 2018 4:52:49 AM"
-  clipping: "The Use of Knowledge in Society, by Friedrich Hayek, is arguably one of the most important economic papers to have ever been written. Unlike highly theoretical, inconsequential, and esoteric modern academic research that is read by nobody, the 11 pages of this paper continue to be read widely 70 years after its publication, and have had a lasting impact on the lives and businesses of many people worldwide, perhaps none as significant as its role in the founding of one of the most important websites on the Internet, and the largest single body of knowledge assembled in human history. Jimmy Wales, Wikipedia's founder, has stated that the idea for establishing Wikipedia came to him after he read this paper by Hayek and his explanation of knowledge."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:26:04 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "Waking Up: A Guide to Spirituality Without Religion (Harris, Sam)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 143
-  location_end: 146
-  added: "Sunday, June 17, 2018 5:10:39 AM"
-  clipping: "That principle is the subject of this book: The feeling that we call “I” is an illusion. There is no discrete self or ego living like a Minotaur in the labyrinth of the brain. And the feeling that there is—the sense of being perched somewhere behind your eyes, looking out at a world that is separate from yourself—can be altered or entirely extinguished."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:26:05 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "Waking Up: A Guide to Spirituality Without Religion (Harris, Sam)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 148
-  location_end: 149
-  added: "Sunday, June 17, 2018 5:11:18 AM"
-  clipping: "Deepening that understanding, and repeatedly cutting through the illusion of the self, is what is meant by “spirituality” in the context of this book."
+  location_start: 535
+  location_end: 536
+  added: "Thursday, August 17, 2017 8:27:06 PM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "Waking Up: A Guide to Spirituality Without Religion (Harris, Sam)"
+  title: "﻿NO EXIT a gripping thriller full of heart-stopping twists (ADAMS, TAYLOR)"
   type: highlight
-  location_start: 164
-  location_end: 166
-  added: "Sunday, June 17, 2018 5:13:57 AM"
-  clipping: "Just as a modern treatise on weaponry would omit the casting of spells and would very likely ignore the slingshot and the boomerang, I will focus on what I consider the most promising lines of spiritual inquiry."
+  location_start: 535
+  location_end: 536
+  added: "Monday, August 21, 2017 5:31:20 AM"
+  clipping: "phone charger, or did you pawn that, too?” “You don’t pawn things in the"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "I Am Watching You (Driscoll, Teresa)"
   type: highlight
-  location_start: 2911
-  location_end: 2915
-  added: "Wednesday, June 27, 2018 7:48:34 PM"
-  clipping: "Perhaps one of the most astonishing facts about the​ modern world economy is the size of the foreign exchange market compared to productive economic activity. The Bank of International Settlements20 estimates the size of the foreign exchange market to be $5.1 trillion per day for April 2016, which would come out to around $1,860 trillion per year."
+  location_start: 1488
+  location_end: 1488
+  added: "Sunday, December 3, 2017 4:37:58 PM"
+  clipping: "can"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "I Am Watching You (Driscoll, Teresa)"
   type: highlight
-  location_start: 3454
-  location_end: 3455
-  added: "Wednesday, July 4, 2018 6:41:56 AM"
-  clipping: "Lebanon, for instance, continues to have a train authority decades after its trains were decommissioned and the tracks rusted into irrelevance."
+  location_start: 1487
+  location_end: 1488
+  added: "Sunday, December 3, 2017 4:38:04 PM"
+  clipping: "Because once you become a parent, you learn that love can"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "I Am Watching You (Driscoll, Teresa)"
   type: highlight
-  location_start: 4583
-  location_end: 4583
-  added: "Friday, July 6, 2018 11:43:41 PM"
-  clipping: "facilitating calculation across borders. The physical heft"
+  location_start: 1487
+  location_end: 1488
+  added: "Sunday, December 3, 2017 4:38:04 PM"
+  clipping: "thing. Because once you become a parent, you learn that love can"
 -
-  title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking (Ammous, Saifedean)"
+  title: "I Am Watching You (Driscoll, Teresa)"
   type: highlight
-  location_start: 4713
-  location_end: 4714
-  added: "Friday, July 6, 2018 11:54:19 PM"
-  clipping: "with no example of a successful double‐spend attack on a confirmed transaction."
+  location_start: 1487
+  location_end: 1488
+  added: "Sunday, December 3, 2017 4:38:08 PM"
+  clipping: "thing. Because once you become a parent, you learn that love can involve more fear than you had ever imagined, and you never quite look on the world in the same way again. Which"
 -
-  title: "Email Cryptography (Daniel Kahn Gillmor)"
+  title: "I Am Watching You (Driscoll, Teresa)"
   type: highlight
-  location_start: 55
-  location_end: 55
-  added: "Saturday, July 14, 2018 11:22:47 AM"
-  clipping: "detail"
+  location_start: 1487
+  location_end: 1488
+  added: "Sunday, December 3, 2017 4:38:10 PM"
+  clipping: "thing. Because once you become a parent, you learn that love can involve more fear than you had ever imagined, and you never quite look on the world in the same way again."
 -
-  title: "Shtetl-Optimized » Blog Archive » Customers who liked this quantum recommendation engine might also like its dequantization (scottaaronson.com)"
+  title: "Review of Steven Pinker’s Enlightenment Now (Scott Aaronson)"
   type: highlight
-  location_start: 52
-  location_end: 53
-  added: "Sunday, July 15, 2018 8:58:22 PM"
-  clipping: "Another Update: For those who are interested, streaming video of my quantum algorithms lectures in Boulder are now available:"
+  location_start: 140
+  location_end: 141
+  added: "Saturday, March 24, 2018 11:27:58 AM"
+  clipping: "Instead, the brain is a bundle of special-purpose modules that evolved for particular reasons, so “the concept [of artificial general intelligence] is barely coherent” (p. 298)."
 -
-  title: "Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) (Moore, Geoffrey A.)"
+  title: "How to get to Earth from Mars (Unknown)"
   type: highlight
-  location_start: 325
-  location_end: 327
-  added: "Tuesday, September 18, 2018 7:53:50 PM"
-  clipping: "the key to getting beyond the enthusiasts and winning over a visionary is to show that the new technology enables some strategic leap forward, something never before possible, which has an intrinsic value and appeal to the nontechnologist."
+  location_start: 394
+  location_end: 394
+  added: "Monday, May 7, 2018 11:39:43 PM"
+  clipping: "First, a heat shield slows the body from 5.7 km/s to"
